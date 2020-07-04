@@ -3,8 +3,7 @@
 int main(void)
 {
   int N;
-  unsigned long int k;
-  unsigned long int sum = 0;
+  unsigned long int k, sum = 0;
 
   scanf("%d", &N);
   do {
